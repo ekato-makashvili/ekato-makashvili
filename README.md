@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![1QDo](https://github.com/ekato-makashvili/ekato-makashvili/assets/44134970/f5a4aaae-94cd-47fa-a58a-47a845053b36)
+![Uploading Cx47.gif…]()
 
 - 🔭 I’m currently working for Doehler
 - 🌱 I’m currently learning Piano
