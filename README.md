@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ekato-makashvili/ekato-makashvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ![Uploading Cx47.gif…]()
 
 - 🔭 I’m currently working for Doehler
